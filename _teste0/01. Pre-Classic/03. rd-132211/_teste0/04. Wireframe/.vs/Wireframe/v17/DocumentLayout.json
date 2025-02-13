@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "src\\Shader.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_teste0\\01. Pre-Classic\\03. rd-132211\\_teste0\\04. Wireframe\\src\\Shader.cs",
               "RelativeToolTip": "src\\Shader.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T11:41:37.643Z",
               "EditorCaption": ""
@@ -45,9 +45,10 @@
               "RelativeDocumentMoniker": "src\\shaders\\Fragment.glsl",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_teste0\\01. Pre-Classic\\03. rd-132211\\_teste0\\04. Wireframe\\src\\shaders\\Fragment.glsl",
               "RelativeToolTip": "src\\shaders\\Fragment.glsl",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-12T11:40:45.913Z"
+              "WhenOpened": "2025-02-12T11:40:45.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -57,7 +58,7 @@
               "RelativeDocumentMoniker": "src\\Window.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_teste0\\01. Pre-Classic\\03. rd-132211\\_teste0\\04. Wireframe\\src\\Window.cs",
               "RelativeToolTip": "src\\Window.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAABpAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T11:36:47.618Z",
               "EditorCaption": ""

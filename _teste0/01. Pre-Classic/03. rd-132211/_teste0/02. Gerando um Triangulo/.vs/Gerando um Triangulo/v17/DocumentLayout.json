@@ -1,24 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_Minecraft Java Edition Versions\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\",
+  "WorkspaceRootPath": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_teste0\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DA322DE-D134-44F5-AE56-CE41D27D462C}|RubyDung.csproj|d:\\github\\meus reposit\u00F3rios\\minecraft-csharp-opentk-2\\_minecraft java edition versions\\01. pre-classic\\03. rd-132211\\_teste0\\02. gerando um triangulo\\src\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DA322DE-D134-44F5-AE56-CE41D27D462C}|RubyDung.csproj|solutionrelative:src\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0DA322DE-D134-44F5-AE56-CE41D27D462C}|RubyDung.csproj|d:\\github\\meus reposit\u00F3rios\\minecraft-csharp-opentk-2\\_minecraft java edition versions\\01. pre-classic\\03. rd-132211\\_teste0\\02. gerando um triangulo\\src\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0DA322DE-D134-44F5-AE56-CE41D27D462C}|RubyDung.csproj|d:\\github\\meus reposit\u00F3rios\\minecraft-csharp-opentk-2\\_teste0\\01. pre-classic\\03. rd-132211\\_teste0\\02. gerando um triangulo\\src\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DA322DE-D134-44F5-AE56-CE41D27D462C}|RubyDung.csproj|solutionrelative:src\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenTK_2\\1. Getting Started\\1.2. Hello Triangle\\Game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DA322DE-D134-44F5-AE56-CE41D27D462C}|RubyDung.csproj|d:\\github\\meus reposit\u00F3rios\\minecraft-csharp-opentk-2\\_teste0\\01. pre-classic\\03. rd-132211\\_teste0\\02. gerando um triangulo\\src\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA322DE-D134-44F5-AE56-CE41D27D462C}|RubyDung.csproj|solutionrelative:src\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DA322DE-D134-44F5-AE56-CE41D27D462C}|RubyDung.csproj|d:\\github\\meus reposit\u00F3rios\\minecraft-csharp-opentk-2\\_minecraft java edition versions\\01. pre-classic\\03. rd-132211\\_teste0\\02. gerando um triangulo\\src\\shaders\\fragment.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{0DA322DE-D134-44F5-AE56-CE41D27D462C}|RubyDung.csproj|d:\\github\\meus reposit\u00F3rios\\minecraft-csharp-opentk-2\\_teste0\\01. pre-classic\\03. rd-132211\\_teste0\\02. gerando um triangulo\\src\\shaders\\fragment.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{0DA322DE-D134-44F5-AE56-CE41D27D462C}|RubyDung.csproj|solutionrelative:src\\shaders\\fragment.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DA322DE-D134-44F5-AE56-CE41D27D462C}|RubyDung.csproj|d:\\github\\meus reposit\u00F3rios\\minecraft-csharp-opentk-2\\_minecraft java edition versions\\01. pre-classic\\03. rd-132211\\_teste0\\02. gerando um triangulo\\src\\shaders\\vertex.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{0DA322DE-D134-44F5-AE56-CE41D27D462C}|RubyDung.csproj|d:\\github\\meus reposit\u00F3rios\\minecraft-csharp-opentk-2\\_teste0\\01. pre-classic\\03. rd-132211\\_teste0\\02. gerando um triangulo\\src\\shaders\\vertex.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{0DA322DE-D134-44F5-AE56-CE41D27D462C}|RubyDung.csproj|solutionrelative:src\\shaders\\vertex.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -29,93 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Shader.cs",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_Minecraft Java Edition Versions\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\src\\Shader.cs",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_teste0\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\src\\Shader.cs",
               "RelativeDocumentMoniker": "src\\Shader.cs",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_Minecraft Java Edition Versions\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\src\\Shader.cs",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_teste0\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\src\\Shader.cs",
               "RelativeToolTip": "src\\Shader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T11:05:41.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Fragment.glsl",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_Minecraft Java Edition Versions\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\src\\shaders\\Fragment.glsl",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_teste0\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\src\\shaders\\Fragment.glsl",
               "RelativeDocumentMoniker": "src\\shaders\\Fragment.glsl",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_Minecraft Java Edition Versions\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\src\\shaders\\Fragment.glsl",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_teste0\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\src\\shaders\\Fragment.glsl",
               "RelativeToolTip": "src\\shaders\\Fragment.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-12T11:04:06.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T11:04:06.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Vertex.glsl",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_Minecraft Java Edition Versions\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\src\\shaders\\Vertex.glsl",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_teste0\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\src\\shaders\\Vertex.glsl",
               "RelativeDocumentMoniker": "src\\shaders\\Vertex.glsl",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_Minecraft Java Edition Versions\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\src\\shaders\\Vertex.glsl",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_teste0\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\src\\shaders\\Vertex.glsl",
               "RelativeToolTip": "src\\shaders\\Vertex.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-12T11:03:56.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T11:03:56.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Window.cs",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_Minecraft Java Edition Versions\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\src\\Window.cs",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_teste0\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\src\\Window.cs",
               "RelativeDocumentMoniker": "src\\Window.cs",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_Minecraft Java Edition Versions\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\src\\Window.cs",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\Minecraft-CSharp-OpenTK-2\\_teste0\\01. Pre-Classic\\03. rd-132211\\_teste0\\02. Gerando um Triangulo\\src\\Window.cs",
               "RelativeToolTip": "src\\Window.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T10:56:29.133Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "37913510-0f24-4c9d-a1be-c96d55fb7301",
-        "Display": 0,
-        "X": 81,
-        "Y": 307,
-        "Width": 1845,
-        "Height": 1005,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Game.cs",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenTK_2\\1. Getting Started\\1.2. Hello Triangle\\Game.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\LearnOpenTK_2\\1. Getting Started\\1.2. Hello Triangle\\Game.cs",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenTK_2\\1. Getting Started\\1.2. Hello Triangle\\Game.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\LearnOpenTK_2\\1. Getting Started\\1.2. Hello Triangle\\Game.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T11:09:33.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T10:56:29.133Z"
             }
           ]
         }
