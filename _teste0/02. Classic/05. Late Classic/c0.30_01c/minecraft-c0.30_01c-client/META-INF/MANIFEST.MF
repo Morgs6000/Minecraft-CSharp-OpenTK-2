@@ -1,0 +1,624 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0 (Sun Microsystems Inc.)
+
+Name: com/mojang/minecraft/k.class
+SHA1-Digest: 4GFLnH86AWtvR7hvjWzzbzP/JRs=
+
+Name: com/mojang/minecraft/player/a.class
+SHA1-Digest: buWiwZbhg/ychI9moJYS/XjPAWw=
+
+Name: com/mojang/minecraft/b/d.class
+SHA1-Digest: ktIi6bjIq40Qj+QMYAB8YAcCQtM=
+
+Name: com/mojang/minecraft/c/j.class
+SHA1-Digest: TLOQjUG9qDNGFFGutilIXmDpN8Y=
+
+Name: com/mojang/minecraft/level/d.class
+SHA1-Digest: /4pzNeXEl9IAQph+2q6E2y/BAx4=
+
+Name: de/jarnbjo/a/a/a.class
+SHA1-Digest: cYMH9BFSfGkmimwhBN5hsYFWos0=
+
+Name: com/mojang/minecraft/mob/ai/AI.class
+SHA1-Digest: t+vkl5QtYY3PUU9N8Z9DlVB8V2g=
+
+Name: mob/spider.png
+SHA1-Digest: VfPrCa+PWJ8sbbk6togxQiGTDZo=
+
+Name: com/mojang/minecraft/a/l.class
+SHA1-Digest: M+9uyXSANnEnLy2YmhIJB1Kxyeo=
+
+Name: de/jarnbjo/vorbis/k.class
+SHA1-Digest: JbdwvnfJzDEAT/cFTT+xKjBweRg=
+
+Name: rock.png
+SHA1-Digest: UoVeRazJGD0QR2OtuiGYwAGXzj0=
+
+Name: com/mojang/minecraft/level/a/a/a.class
+SHA1-Digest: PFk3SKy7xDx+mEQp+l1jA/ArU1w=
+
+Name: com/mojang/minecraft/MinecraftApplet.class
+SHA1-Digest: JRvNmlDVg3nq9sztJKt6Mu+ojGw=
+
+Name: de/jarnbjo/vorbis/b.class
+SHA1-Digest: sC5ACPL2qgeXJAU4qvXI2yJt+pU=
+
+Name: com/mojang/minecraft/a/h.class
+SHA1-Digest: 50vBpMOGZcBG6nKMmD8IESnX+wI=
+
+Name: de/jarnbjo/vorbis/l.class
+SHA1-Digest: i+GnMAkF81RSsIx+xW0YbnKbaIY=
+
+Name: de/jarnbjo/vorbis/g.class
+SHA1-Digest: PLy1bfj2GEqQdwMB4M29cBpY6YQ=
+
+Name: item/arrows.png
+SHA1-Digest: moAHRC2YmEi5jR+688Gvp1bSdS8=
+
+Name: de/jarnbjo/vorbis/i.class
+SHA1-Digest: b97YFGnKGVqGEtHt4VOx1lPWEfs=
+
+Name: com/mojang/minecraft/b/a/b.class
+SHA1-Digest: FhR8Vcoul7+N7iEFi1Ap5gOceJM=
+
+Name: com/mojang/minecraft/a/k.class
+SHA1-Digest: Sn77NieawA7N25uyiTf4Xq7Lg80=
+
+Name: com/mojang/minecraft/net/a.class
+SHA1-Digest: e8ZzQ6VpXPT5E23tJFAOP36V2J8=
+
+Name: terrain.png
+SHA1-Digest: vErO5XVHT1JmEFQww8xii4s5SKI=
+
+Name: com/mojang/minecraft/b/g.class
+SHA1-Digest: N3hWXOVHG+8eq/jbtS9uQ1WiUKo=
+
+Name: com/mojang/minecraft/level/tile/d.class
+SHA1-Digest: CXIPgHFZZLnjjq8c5UwkEDtSdQY=
+
+Name: com/mojang/minecraft/phys/AABB.class
+SHA1-Digest: M0ein2Rvo5le+KqiUg/A5RIDS4Q=
+
+Name: com/mojang/minecraft/c/n.class
+SHA1-Digest: wKJyFYUVKFGhHkoSsQo/Q5GEUqM=
+
+Name: com/mojang/minecraft/e/o.class
+SHA1-Digest: 8iuIEN0EPjCGT0RzwqiB1SS1s3E=
+
+Name: com/mojang/minecraft/level/tile/c.class
+SHA1-Digest: zydTRvSWmvcueTvY86Wdqy/L1YA=
+
+Name: com/mojang/minecraft/a/a.class
+SHA1-Digest: BxDPBR2/a4A+SDCS82OCFyCFY8o=
+
+Name: com/mojang/minecraft/level/tile/e.class
+SHA1-Digest: f8OxG02FiRMUPp4Y6eR82PqT6HE=
+
+Name: com/mojang/minecraft/item/Item.class
+SHA1-Digest: M6sh5toxkQZykOl5E6EVwSso6iw=
+
+Name: com/mojang/minecraft/e/l.class
+SHA1-Digest: MGQvMIK/jwfvYK4EeCP3kYzY7TY=
+
+Name: com/mojang/minecraft/a.class
+SHA1-Digest: Mvo2jRkC8N4cWsoA/yq6H9P1Tww=
+
+Name: com/mojang/minecraft/b/a.class
+SHA1-Digest: RNTVUGKNtb9rsJk1pHL/P1uHM2g=
+
+Name: armor/chain.png
+SHA1-Digest: WmEO+itG0e4ipu9MQqxyM7dGewM=
+
+Name: de/jarnbjo/vorbis/r.class
+SHA1-Digest: 5dOpmgnkLTr7SOkyGmHQed1eOVM=
+
+Name: com/mojang/minecraft/level/tile/p.class
+SHA1-Digest: 3VTwDWLxbTFvs7lM9DTSZ+yUt+Q=
+
+Name: com/mojang/minecraft/e/b.class
+SHA1-Digest: hD6U08gtocZoJeOwMakWaMsJWXQ=
+
+Name: com/mojang/minecraft/level/a/a/b.class
+SHA1-Digest: 7TJAv/QcWWh4JHoeYmmvekfdP2M=
+
+Name: com/mojang/minecraft/e/m.class
+SHA1-Digest: svC3Me8o5aAUUfEA1dSGVL0aMkU=
+
+Name: com/mojang/minecraft/level/tile/b.class
+SHA1-Digest: +Qkyts0QZ0cTK7Ge/OfQnPn1yTo=
+
+Name: com/mojang/minecraft/particle/Particle.class
+SHA1-Digest: lgrwgucyxjxgq2DU1+HOw+KLCNQ=
+
+Name: clouds.png
+SHA1-Digest: gCCO/zgrrZD7vcy+eq9Y7HGCQU4=
+
+Name: com/mojang/minecraft/a/g.class
+SHA1-Digest: nJzZKfeutYXipyALcV/Xi5P82C0=
+
+Name: com/mojang/minecraft/j.class
+SHA1-Digest: WzU5CazoIe7tHlZB/mG2zCFRZL0=
+
+Name: com/mojang/minecraft/e/p.class
+SHA1-Digest: 0fh6O0wQuuFeUaD8B7TXL9UMtxk=
+
+Name: mob/sheep_fur.png
+SHA1-Digest: 6cwQ8RybUwyf2yHSclgK9ArVk30=
+
+Name: com/mojang/minecraft/item/TakeEntityAnim.class
+SHA1-Digest: 4vBJj9hf7DDB1IQq8h49vbDm4fg=
+
+Name: com/mojang/minecraft/e/r.class
+SHA1-Digest: uJui2PMPBiEotjWLU10asgY5xgk=
+
+Name: com/mojang/minecraft/c.class
+SHA1-Digest: BlW5EETfTW/Y6jOP0rVc7xDTtwo=
+
+Name: com/mojang/minecraft/level/b/a.class
+SHA1-Digest: Jggt6EMUWl712zqqfY9Fp3PqhWo=
+
+Name: com/mojang/minecraft/level/a.class
+SHA1-Digest: /YInFm95h5UHnHsxglbwnAwcoNY=
+
+Name: com/mojang/minecraft/a/d.class
+SHA1-Digest: YfqW0eIsJIV8ZvEJcEEn+ZRYtfA=
+
+Name: com/mojang/minecraft/b.class
+SHA1-Digest: O2q+hYoI+UQR1Be7LjIDhdXSbbk=
+
+Name: com/mojang/minecraft/c/i.class
+SHA1-Digest: yyKwdI3xTNk29227nVqnGQfz7EQ=
+
+Name: armor/plate.png
+SHA1-Digest: YDEvk6YUC/4+nun+6MTC59rGmss=
+
+Name: com/mojang/minecraft/mob/Creeper$1.class
+SHA1-Digest: bbYrdLW/E/63AXR1/dwZCC3inr0=
+
+Name: com/mojang/a/a.class
+SHA1-Digest: PC8pB9NU0z5xtNshya2UGAUuauQ=
+
+Name: de/jarnbjo/vorbis/o.class
+SHA1-Digest: 5gP8n1IQiyok/go6BIIy9KuwAgo=
+
+Name: com/mojang/minecraft/mob/Creeper.class
+SHA1-Digest: DpwwcbF+UqaPOpvLh4JlpwIZ/bQ=
+
+Name: com/mojang/minecraft/level/a/a/d.class
+SHA1-Digest: /2M1dTLeLRQ7A8WLob+Htm3IHYE=
+
+Name: com/mojang/minecraft/d/b.class
+SHA1-Digest: ywMmJhfC0PDwCI7RM0Fjtyi8Bos=
+
+Name: de/jarnbjo/vorbis/VorbisFormatException.class
+SHA1-Digest: A3NgWGqhyP7v4QnxtgmI4M3mh/U=
+
+Name: com/mojang/minecraft/a/n.class
+SHA1-Digest: XFDocuuXuylsTg5ua1x9+6U39dU=
+
+Name: com/mojang/minecraft/a/o.class
+SHA1-Digest: vPsNLo3NIxDId4IHr/P3opDnA/g=
+
+Name: com/mojang/minecraft/e/i.class
+SHA1-Digest: aJGWpLQaxfzc7O7wgebN/C81fcU=
+
+Name: com/mojang/minecraft/item/a.class
+SHA1-Digest: zKr150h/vYaxkdNc+xRtBxVc9p0=
+
+Name: com/mojang/minecraft/level/tile/s.class
+SHA1-Digest: eEoZIRVXYz5JybRXxLMdBewUztk=
+
+Name: com/mojang/minecraft/level/tile/g.class
+SHA1-Digest: /BvQHDgs+DxAsYwYhcYvgjU2Nv0=
+
+Name: com/mojang/minecraft/particle/TerrainParticle.class
+SHA1-Digest: N3Fk7RVl/mRfU5gdaVr5um6IqWg=
+
+Name: com/mojang/minecraft/level/c.class
+SHA1-Digest: /em+BaBBr+vYmgWezTpr08YJMA4=
+
+Name: com/mojang/minecraft/c/a.class
+SHA1-Digest: mCEP6/H0czHFL6MPlELyZOxtpCw=
+
+Name: dirt.png
+SHA1-Digest: Tj5g6xm/Asnn8FmrzIyNN26+r8w=
+
+Name: com/mojang/minecraft/level/tile/o.class
+SHA1-Digest: JqM9plZhg81fVrg097BefkRESCI=
+
+Name: com/mojang/minecraft/e/j.class
+SHA1-Digest: 9HdWle/4L05C5HZbfg0TNwoirrI=
+
+Name: char.png
+SHA1-Digest: 9fkV0U8Uc0ecQ5YqOnJUqbGgNGA=
+
+Name: com/mojang/minecraft/item/PrimedTnt.class
+SHA1-Digest: UtMxgSujR1VnFA9ruFMOGUc42Zk=
+
+Name: com/mojang/minecraft/level/a/a.class
+SHA1-Digest: hXAIqPV/RzFxjVLx65tPzTDYerw=
+
+Name: com/mojang/minecraft/b/e.class
+SHA1-Digest: 2e6Ld/ouQ8meN1+h1DusjkdDIUI=
+
+Name: com/mojang/minecraft/e/a.class
+SHA1-Digest: 8CEur4f0oBOoXcxn6TQ8eCI3d5E=
+
+Name: de/jarnbjo/vorbis/m.class
+SHA1-Digest: Y+lselxvTg7MdtTYSJCmVmp8SQw=
+
+Name: com/mojang/minecraft/StopGameException.class
+SHA1-Digest: BVk4A4DRwuW7A7Osy1eDUyjO3Kg=
+
+Name: com/mojang/minecraft/a/j.class
+SHA1-Digest: EsfpXKsMyiyxQxyGtz1Z6GSunf4=
+
+Name: com/mojang/minecraft/player/Player$1.class
+SHA1-Digest: ztW+hSGGk+PEJjC0EjPNU8wI91k=
+
+Name: com/mojang/minecraft/e/c.class
+SHA1-Digest: hma4HSR0mXJqCCJrfVJgf4mnMrE=
+
+Name: mob/pig.png
+SHA1-Digest: V48hcqRI4LD2yLy6gi9TWuKCOB8=
+
+Name: com/mojang/minecraft/level/tile/n.class
+SHA1-Digest: XbXempZABVZZhsJuXi4FKVo0joc=
+
+Name: com/mojang/minecraft/d/a.class
+SHA1-Digest: 6SedzOEVgGyNHaNKc64jfb93mY8=
+
+Name: com/mojang/minecraft/particle/WaterDropParticle.class
+SHA1-Digest: B4bx7USb1tY/mnIC71i9sFxbgEM=
+
+Name: mob/zombie.png
+SHA1-Digest: FcMQrfVTy+3DLbWmNt19tcrs//w=
+
+Name: water.png
+SHA1-Digest: Vhq7UdiyZLnQqLLJ4yxoNYXxRGA=
+
+Name: com/mojang/minecraft/b/j.class
+SHA1-Digest: oK79L1JVjeiUnBnux8Pc2sZCFH8=
+
+Name: com/mojang/minecraft/c/h.class
+SHA1-Digest: BoV5nQTu02N21pfRc+fx9gUff+s=
+
+Name: de/jarnbjo/vorbis/e.class
+SHA1-Digest: fHiPTuptx8sZOh16WPdl0k/TAgY=
+
+Name: com/mojang/minecraft/a/c.class
+SHA1-Digest: lyGk6+g+FxCbj22SLn32W3PMfAc=
+
+Name: com/mojang/minecraft/i.class
+SHA1-Digest: AfwUO5o3Zg157yszQLus7Ix2ixw=
+
+Name: com/mojang/minecraft/e/n.class
+SHA1-Digest: m92m1/fZorpiF35oDgK58pVC1Os=
+
+Name: com/mojang/minecraft/b/c.class
+SHA1-Digest: KdDIMy7BojQ8eO6LKN/ZuChIEc4=
+
+Name: com/mojang/minecraft/c/k.class
+SHA1-Digest: Cloll1sIjmLLWukm/nfZWq5I2fw=
+
+Name: de/jarnbjo/vorbis/j.class
+SHA1-Digest: f1Xv+q50td/YQ5X42MvaulzQ2rY=
+
+Name: de/jarnbjo/vorbis/n.class
+SHA1-Digest: Q3PQB3QgkdsvRFdkB3wNOT4Jzdw=
+
+Name: com/mojang/minecraft/e/f.class
+SHA1-Digest: tLu+efZFNM/m6nh+OpiLlCp/mCY=
+
+Name: com/mojang/minecraft/mob/Skeleton.class
+SHA1-Digest: BJHBxWUMxR3pXGawuxm8x9jv71w=
+
+Name: com/mojang/minecraft/c/b.class
+SHA1-Digest: fRtfIIvugu3DxTtqzGBb5/au25g=
+
+Name: mob/skeleton.png
+SHA1-Digest: 3pt7XEpvzlc2/peM8zcFO0VKYT4=
+
+Name: com/mojang/minecraft/mob/Skeleton$1.class
+SHA1-Digest: hQ2vFdzj6Pk2aUx4bSgFd9XWr88=
+
+Name: com/mojang/minecraft/level/tile/m.class
+SHA1-Digest: 8G/11aZSwnln/AtZ+n2+P0KEq8U=
+
+Name: de/jarnbjo/vorbis/p.class
+SHA1-Digest: IQ0q/a4Xhw7Jm+xurKdLYDF75AI=
+
+Name: com/mojang/minecraft/mob/Spider.class
+SHA1-Digest: 1+uutkdUQA1LAz8sWqQQZ3bcmyk=
+
+Name: com/mojang/minecraft/level/tile/f.class
+SHA1-Digest: QbL2e1NzGYQ9SaIACyE9QsOLi4M=
+
+Name: com/mojang/minecraft/level/tile/k.class
+SHA1-Digest: qiW03GSt+7qY3C22e53jeP4rA5M=
+
+Name: com/mojang/minecraft/player/Inventory.class
+SHA1-Digest: z3nltrAcnq61m8KWB5GA/0/c49E=
+
+Name: com/mojang/minecraft/e/k.class
+SHA1-Digest: 1oYXTQyZyhg9Vm4J7n+LBMEYTd8=
+
+Name: com/mojang/minecraft/e.class
+SHA1-Digest: VP+zObzAdgjHKiHFQ5r/mh433wI=
+
+Name: de/jarnbjo/ogg/c.class
+SHA1-Digest: KBZfSXD8UHoErTzYfCuOtEm+tF0=
+
+Name: com/mojang/minecraft/c/d.class
+SHA1-Digest: di/iw2jFwFXLfRngzuCGQg0wXkI=
+
+Name: gui/icons.png
+SHA1-Digest: bKvhTqsWev2Kn0bhSpnBOkpXXQs=
+
+Name: com/mojang/minecraft/mob/Sheep$1.class
+SHA1-Digest: rUNM7w+APIV7IE9fivqjAPn5StQ=
+
+Name: com/mojang/minecraft/net/NetworkPlayer.class
+SHA1-Digest: CBJkoS/7jpWkI7U1H31RFEnoXCg=
+
+Name: com/mojang/minecraft/e/g.class
+SHA1-Digest: sHZfLktRP2x7WR0ge155RUTR1ms=
+
+Name: com/mojang/minecraft/b/f.class
+SHA1-Digest: rFTaJ3intJhKeSZmibIa030hEqs=
+
+Name: com/mojang/minecraft/level/tile/l.class
+SHA1-Digest: Wz2J1XdLLXtCz6Cspvc0wClGLN4=
+
+Name: com/mojang/minecraft/e/e.class
+SHA1-Digest: w2mwjaqtww54rDEj2Eurzi7eRME=
+
+Name: com/mojang/minecraft/level/tile/r.class
+SHA1-Digest: TphDNFYRlXv+8n6wfOfCZAMX/M8=
+
+Name: mob/sheep.png
+SHA1-Digest: rqiKnjtsXva+IZaNQdjryUJkaKk=
+
+Name: com/mojang/minecraft/b/a/c.class
+SHA1-Digest: GZc1UnbMps/65dZu4QXwOuE6FNA=
+
+Name: particles.png
+SHA1-Digest: tD7mcD9RDgNfntOKedV/xkvr1Mw=
+
+Name: mob/creeper.png
+SHA1-Digest: 3HtuKTBjFiOMuk8NXG6vQCQtMVA=
+
+Name: gui/gui.png
+SHA1-Digest: gRdhQou4Hz7VsKfsMQAzIyCdFg0=
+
+Name: com/mojang/minecraft/c/f.class
+SHA1-Digest: B8hg6NZ5dXWjWac65d/PXbWJL9A=
+
+Name: com/mojang/minecraft/Minecraft$OS.class
+SHA1-Digest: fN126qUWKyHusWNnq+McUFiPo7k=
+
+Name: com/mojang/minecraft/level/tile/Tile$SoundType.class
+SHA1-Digest: AgqYWWacVT4ocG2WmN2JqkFVkSI=
+
+Name: de/jarnbjo/ogg/OggFormatException.class
+SHA1-Digest: Z7y2kFqLbvJbE1OS4G7lSnIQHcI=
+
+Name: com/mojang/minecraft/level/tile/i.class
+SHA1-Digest: 6y1rYZF88q9U9xE2RhI2wZj39+c=
+
+Name: com/mojang/minecraft/a/f.class
+SHA1-Digest: g2Sxx0dLNvyTURGyKENtSzXFbB4=
+
+Name: de/jarnbjo/vorbis/q.class
+SHA1-Digest: nLjymwnofMC+q5NRs9Z1dsX/gOc=
+
+Name: de/jarnbjo/vorbis/d.class
+SHA1-Digest: NtSLUnK0JPOMoYHh1V5MTtuQ8Cs=
+
+Name: de/jarnbjo/vorbis/a.class
+SHA1-Digest: 9x3l1hBY3Qs6+18JRTkb3uhNIzs=
+
+Name: com/mojang/minecraft/c/m.class
+SHA1-Digest: 8kfyzQsCNN4uUuE/0FXjYYqPKog=
+
+Name: a/a.class
+SHA1-Digest: 6/pYTmMt4biZJ1MKiWmqmQ8E2mI=
+
+Name: com/mojang/minecraft/MinecraftApplet$1.class
+SHA1-Digest: iWpnwwuPUVO6eSx1pCBw57XgAmo=
+
+Name: com/mojang/minecraft/level/tile/j.class
+SHA1-Digest: web57pCi0vzMBMaQ6ZfqZ33+nn8=
+
+Name: com/mojang/minecraft/mob/ai/BasicAI.class
+SHA1-Digest: A61zP/6KHo9axwq9EG14uJ/H/CI=
+
+Name: com/mojang/minecraft/Entity.class
+SHA1-Digest: jBlUlqGEPoN5vlaMTN6G19Evyuk=
+
+Name: com/mojang/minecraft/c/l.class
+SHA1-Digest: ZTJbkhc5VGKjHkfTFaSpXXVn1To=
+
+Name: com/mojang/minecraft/net/c.class
+SHA1-Digest: WUB1n8w3WelX8TNs5UwfOxRn6bw=
+
+Name: com/mojang/minecraft/mob/Sheep.class
+SHA1-Digest: 7CkyYLRvCfXzxKz2THrKuhwCdqg=
+
+Name: com/mojang/minecraft/level/tile/h.class
+SHA1-Digest: Kw1quiBNsy3Z0ZRWjaqHmGFnl6w=
+
+Name: com/mojang/minecraft/mob/HumanoidMob.class
+SHA1-Digest: iw35dj9sf5CGqBmHMmDH3hH0BF4=
+
+Name: null
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: com/mojang/minecraft/mob/ai/JumpAttackAI.class
+SHA1-Digest: QRYfHzMt3cQbqXP8IarbVHjtTMQ=
+
+Name: com/mojang/minecraft/level/BlockMap.class
+SHA1-Digest: ecrouJSuvd7J1mr7ZM9pYbgWXfI=
+
+Name: com/mojang/minecraft/mob/ai/BasicAttackAI.class
+SHA1-Digest: zX/mLSwhDOo4XpX7SqrtkEFUVBs=
+
+Name: com/mojang/minecraft/level/Level.class
+SHA1-Digest: MhGttUrFlRye663UpVPeKOrN9Xg=
+
+Name: com/mojang/minecraft/net/b.class
+SHA1-Digest: RRjbbVbWps2BKDRa6VXH4SaUhU4=
+
+Name: default.png
+SHA1-Digest: c55oAQhZhgD2TLZmYdWTiM+AnYY=
+
+Name: de/jarnbjo/vorbis/h.class
+SHA1-Digest: yJ8n/cVnR3wjcvecYlGnvjb0eIs=
+
+Name: com/mojang/minecraft/d.class
+SHA1-Digest: Ylab05idzBWdxOC+N5QpqTjgmTw=
+
+Name: com/mojang/minecraft/g.class
+SHA1-Digest: HWo7noto30hLSqf74EPuAmq8u5A=
+
+Name: com/mojang/minecraft/h.class
+SHA1-Digest: rinMUHrShXjhypYqf171mk5YOrI=
+
+Name: com/mojang/minecraft/b/a/a.class
+SHA1-Digest: ToeuG4KVevNJTHUX0m/Cu9Z+TI4=
+
+Name: com/mojang/minecraft/c/g.class
+SHA1-Digest: mKUukJQi2zL7put52WZc+1KqrFM=
+
+Name: item/sign.png
+SHA1-Digest: DpIepeRBc7gFPtk3qQw3Rl4u1JE=
+
+Name: com/mojang/minecraft/e/h.class
+SHA1-Digest: RttViER0whvjFrtSNmvoyBufQbA=
+
+Name: com/mojang/minecraft/e/q.class
+SHA1-Digest: 8YnsrP90LqWRbzkJF08DO4VS3vI=
+
+Name: com/mojang/minecraft/f.class
+SHA1-Digest: b38WAxpoj8I4fC8A4bdQPuRI97s=
+
+Name: com/mojang/minecraft/level/tile/t.class
+SHA1-Digest: VcAOYmoo6NiUwY0rpQIcbnwWJAQ=
+
+Name: com/mojang/minecraft/a/e.class
+SHA1-Digest: 9GQziNmA0m7QzKSR/4vqp3kyXpk=
+
+Name: com/mojang/minecraft/b/h.class
+SHA1-Digest: FmKHesRKGBippjS2IkD3d/v2ARo=
+
+Name: rain.png
+SHA1-Digest: jyvAPez7AFeHH3PDyIxGeoE9PGk=
+
+Name: com/mojang/minecraft/mob/Pig.class
+SHA1-Digest: x/8H1CFHP/O1H7007sNqbB3OjPg=
+
+Name: com/mojang/minecraft/mob/Zombie.class
+SHA1-Digest: dGh+5ijuwHm3k4VdNHcD2VqMsbc=
+
+Name: com/mojang/minecraft/a/b.class
+SHA1-Digest: JoDsB/7lJmo5llfhEgO1bCEB1Fg=
+
+Name: com/mojang/minecraft/a/i.class
+SHA1-Digest: /Ep0d+9g4YF1RBcHZAovuLUx3hI=
+
+Name: com/mojang/minecraft/level/tile/q.class
+SHA1-Digest: 3nDxplrk6QqE4y70ny+3nXfeIM4=
+
+Name: com/mojang/minecraft/particle/a.class
+SHA1-Digest: /PyrZ/2lmvWXOjt2NavY/9SQvd0=
+
+Name: com/mojang/minecraft/a/m.class
+SHA1-Digest: i7KSzliYrcaWOgErki/1srGch6E=
+
+Name: de/jarnbjo/ogg/a.class
+SHA1-Digest: jcUulwnACEEawSTSOorzmTkATOY=
+
+Name: com/mojang/minecraft/level/e.class
+SHA1-Digest: vbBT1m6xdi6RsxRIsKLVomkKllA=
+
+Name: com/mojang/minecraft/c/c.class
+SHA1-Digest: N3KQbHWA8IDq9tFy9Ar18/UJpds=
+
+Name: default.gif
+SHA1-Digest: PzOSbc68P9QHU9hZnyf9SKXEedI=
+
+Name: de/jarnbjo/vorbis/f.class
+SHA1-Digest: xAM2Nz8Mne1923+P12wM+D4PyS4=
+
+Name: com/mojang/minecraft/level/tile/a.class
+SHA1-Digest: pw/XyiZZGwNNce+WBywVhMqngck=
+
+Name: com/mojang/minecraft/player/Player.class
+SHA1-Digest: Mv+LRV0XmISk2bztEm4ZlJtxFfA=
+
+Name: com/mojang/minecraft/level/a/a/c.class
+SHA1-Digest: GHdJmWDg3qQmvtkaJUi15o9zApw=
+
+Name: com/mojang/minecraft/l.class
+SHA1-Digest: LPx1euDko22oDfPDY/6Z9zTz0GQ=
+
+Name: de/jarnbjo/ogg/b.class
+SHA1-Digest: 7oh/TVBW14tDIJP68qwLul8f7o0=
+
+Name: com/mojang/minecraft/c/e.class
+SHA1-Digest: CJFhmDiUjs49eGmuDqzoPVbVDBY=
+
+Name: com/mojang/minecraft/e/d.class
+SHA1-Digest: eANxHVhtjEaVv1AWOCH+AYGG5qo=
+
+Name: 2char.png
+SHA1-Digest: B0Pf5i6tplTKrunb8p5YRkLt+OA=
+
+Name: com/mojang/minecraft/d/c.class
+SHA1-Digest: FTm/S+wHGIR5wC1B5WKFeHJBqf4=
+
+Name: com/mojang/minecraft/player/b.class
+SHA1-Digest: e8TtsI8dpY5obCd5a8dtQ+yc3aU=
+
+Name: com/mojang/minecraft/particle/SmokeParticle.class
+SHA1-Digest: jnS/8bfy6/HiJjB7ZPgGuHFwidc=
+
+Name: grass.png
+SHA1-Digest: /jLq3jqQxu3wZJcVd9gY24N60pU=
+
+Name: com/mojang/minecraft/b/i.class
+SHA1-Digest: tvAhdb1hooe/21NjJEtamg7MA9A=
+
+Name: com/mojang/minecraft/b/b.class
+SHA1-Digest: TubYz9sZcz4TvJN8+opOi+3v4Gs=
+
+Name: de/jarnbjo/a/a/b.class
+SHA1-Digest: EsYW5X2Zlk5r2Bj9escOX0Zh6fw=
+
+Name: com/mojang/minecraft/net/d.class
+SHA1-Digest: NUlH9dT+s4PagT3IDSDhsoyxKBM=
+
+Name: com/mojang/minecraft/level/BlockMap$Slot.class
+SHA1-Digest: 43xZhPyK4W8Z07htb+e7gDrcmKc=
+
+Name: com/mojang/minecraft/level/b.class
+SHA1-Digest: gHNJk3C5+wlTofbdR36Y8pTLdSQ=
+
+Name: de/jarnbjo/ogg/EndOfOggStreamException.class
+SHA1-Digest: aDpY2eeEufX+FLcGqtIMajygRTE=
+
+Name: com/mojang/minecraft/mob/QuadrupedMob.class
+SHA1-Digest: weAZtkyczjG0esK7C+MdZEkBT1U=
+
+Name: com/mojang/minecraft/mob/Mob.class
+SHA1-Digest: D+EQLyeVpN60tyRpCuLBXNDmtgo=
+
+Name: com/mojang/minecraft/item/Arrow.class
+SHA1-Digest: UHYSjlvaSfcdnB58TosNsBMMSgo=
+
+Name: com/mojang/minecraft/net/e.class
+SHA1-Digest: sIjfiyoLlZtchRdos54DAsKETEQ=
+
+Name: de/jarnbjo/vorbis/c.class
+SHA1-Digest: i8CUJonfy+xKzS5IiTDCrgfrQqo=
+
