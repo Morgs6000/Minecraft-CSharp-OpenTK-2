@@ -85,6 +85,8 @@ public class Window : GameWindow {
         texture = new Texture("../../../src/textures/terrain.png");
 
         levelRenderer = new LevelRenderer();
+        levelRenderer.Load();
+
         camera = new Camera();
 
         GL.Enable(EnableCap.DepthTest);
